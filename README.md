@@ -1,6 +1,6 @@
 Hi, I’m @MD-Imam. I’m interested in web design and development. I’m currently learning and working javascript & wordpress. I’m looking to collaborate on, Who needs a website like portfolio, blog, business, ecommerce site. I can easily design a website at your business and reasonable price.How to reach me? I'm a freelancer at Upwork you can hire me from there for any of your projects. 👋👀🌱💞️📫 
 
-  My Websites sample:-
+  My Websites Sample:-
   =====================
 - https://md-imam.github.io/side-menu-wave/
 - https://md-imam.github.io/Eventrox/
